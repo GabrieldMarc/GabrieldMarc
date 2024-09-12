@@ -1,10 +1,11 @@
 ## Olá! Eu sou o Gabriel Marconi
 
-- 💼 Atualmente trabalho com Vendas
-- 🤓 Estudando Desenvolvimento FullStack Java
-- 😁 ele/dele
+- 💼 Atualmente trabalho com Vendas.
+- 💻 Estudando Desenvolvimento FullStack Java.
+- 😁 ele/dele.
+- 🎮 Apaixonado em jogos.
 
-- <div>
+<div>
   <a href="https://github.com/GabrieldMarc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrieldMarc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieldMarc&layout=compact&langs_count=16&theme=dark"/>
