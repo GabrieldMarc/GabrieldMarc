@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Marconi
 
 - 💼 Atualmente trabalho com Vendas.
-- 💻 Estudando Desenvolvimento FullStack Java.
+- 💻 Eng. Software Unicesumar.
 - 😁 ele/dele.
 - 🎮 Apaixonado em jogos.
 
